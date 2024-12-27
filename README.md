@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Krisna Epras
+# Hi there! 👋 I'm Krisna Eko Prasetyo
 
 ## 🚀 About Me
 I'm a passionate Backend Developer with expertise in building robust and scalable web applications. I specialize in creating efficient server-side solutions and managing databases to power modern web applications.
