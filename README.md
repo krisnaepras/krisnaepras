@@ -29,12 +29,12 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
 </div>
 
 ## 🌟 Key Skills
-- 🔹 RESTful API Development
-- 🔹 Database Design & Optimization
-- 🔹 Server-side Architecture
-- 🔹 API Integration
-- 🔹 Backend Performance Optimization
-- 🔹 Web Security Implementation
+🔹 RESTful API Development
+🔹 Database Design & Optimization
+🔹 Server-side Architecture
+🔹 API Integration
+🔹 Backend Performance Optimization
+🔹 Web Security Implementation
 
 ## 📊 GitHub Stats
 
