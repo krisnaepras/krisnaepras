@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Krisna Eko Prasetyo</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C98CF&center=true&vCenter=true&width=435&lines=Backend+Developer;PHP+%7C+Golang+%7C+Node.js+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36" /></a>
 </div>
 
 ## 🚀 About Me
