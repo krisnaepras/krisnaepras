@@ -5,7 +5,6 @@
 </div>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
 ## 🚀 About Me
 I'm a passionate Backend Developer with expertise in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. My focus is on writing clean, efficient, and maintainable code.
 
@@ -58,11 +57,3 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krisnaepras&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  ⭐️ From [krisnaepras](https://github.com/krisnaepras)
-</div>
-</div>
