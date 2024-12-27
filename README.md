@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Krisna Eko Prasetyo
 
 ## 🚀 About Me
-I'm a passionate Backend Developer with expertise in building robust and scalable web applications. I specialize in creating efficient server-side solutions and managing databases to power modern web applications.
+I'm a passionate Backend Developer with expertise in building robust and scalable web applications.
 
 ## 💻 Tech Stack
 ### Languages
@@ -35,7 +35,7 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaepras&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisnaepras)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krisnaepras)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krisnaepras@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisnaepras){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krisnaepras){:target="_blank"}
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krisnaepras@gmail.com){:target="_blank"}
 
