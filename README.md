@@ -16,7 +16,7 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="laravel" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" style="margin: 10px;"/>
