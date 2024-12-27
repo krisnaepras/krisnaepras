@@ -65,10 +65,3 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krisnaepras&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  ⭐️ From [krisnaepras](https://github.com/krisnaepras)
-</div>
