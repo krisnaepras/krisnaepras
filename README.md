@@ -42,7 +42,6 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krisnaepras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaepras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=krisnaepras&theme=tokyonight&hide_border=true&background=0D1117" alt="krisnaepras"/>
 </p>
 
 ## 📫 Let's Connect!
