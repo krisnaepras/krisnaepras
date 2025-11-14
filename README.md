@@ -10,34 +10,6 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
 
 <div align="center">
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="laravel" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="margin: 10px;"/>
-</p>
-
-## 🌟 Key Skills
-<table align="center">
-  <tr>
-    <td align="center"><b>🔹 RESTful API Development</b></td>
-    <td align="center"><b>🔹 Database Design & Optimization</b></td>
-    <td align="center"><b>🔹 Server-side Architecture</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔹 API Integration</b></td>
-    <td align="center"><b>🔹 Backend Performance Optimization</b></td>
-    <td align="center"><b>🔹 Web Security Implementation</b></td>
-  </tr>
-</table>
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krisnaepras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
