@@ -13,11 +13,11 @@ I'm a passionate Backend Developer with expertise in building robust and scalabl
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=krisnaepras&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&random=1"
+    src="https://github-readme-stats.vercel.app/api?username=krisnaepras&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaepras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaepras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600"
   />
 </div>
 
