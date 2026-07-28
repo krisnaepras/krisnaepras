@@ -9,15 +9,25 @@
 ## 🚀 About Me
 I'm a passionate Backend Developer with expertise in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. My focus is on writing clean, efficient, and maintainable code.
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=krisnaepras&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=krisnaepras&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaepras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krisnaepras&theme=tokyonight"
+    alt="Top Languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krisnaepras&theme=tokyonight"
+    alt="Profile Details"
   />
 </div>
 
